@@ -11,4 +11,4 @@
    [[Informe/Manual Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio](https://docs.google.com/document/d/1xogXqQJm3Vce8_CK7bDUXFzOnxgi5AF6VZYZfYR8JjE/edit?tab=t.0#heading=h.ev9o01imx1qn)]
    
    ### Se adjunta tendencias adicciones y suicidios entre jóvenes del ciclo secundario en Argentina.
-   [[Tendencias en adicciones y suicidios en jóvenes del Ciclo Secundario-Argentina]([MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO](https://docs.google.com/spreadsheets/d/1MW6dxTC1LGvefB5c-QMAhSvk3DIHEgLGCt5AtqjCs7E/edit?gid=0#gid=0))]
+   [[Tendencias en adicciones y suicidios en jóvenes del Ciclo Secundario-Argentina](https://docs.google.com/spreadsheets/d/1MW6dxTC1LGvefB5c-QMAhSvk3DIHEgLGCt5AtqjCs7E/edit?gid=0#gid=0))]
